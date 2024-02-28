@@ -1,0 +1,11 @@
+export const NBR_OF_DICES = 5;
+export const NBR_OF_THROWS = 3;
+export const MIN_SPOT = 1;
+export const MAX_SPOT = 6;
+export const BONUS_POINTS_LIMIT = 63;
+export const BONUS_POINTS = 50;
+export const NBRS = 6;
+export const MAX_ROUNDS = 6;
+export const MAX_NBR_OF_TBL_ROWS = 10;
+export const ROUND = 1;
+export const STORAGE_KEY = '@scoreboard_storage';
